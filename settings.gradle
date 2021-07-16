@@ -1,0 +1,2 @@
+rootProject.name = "Work Manager One Time Request Kotlin"
+include ':app'
